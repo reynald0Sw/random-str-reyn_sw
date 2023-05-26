@@ -1,15 +1,15 @@
 {
   "name": "random-str-reyn_sw",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random String Messages",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-   "repository" : {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/reynald0Sw/random-str-reyn_sw.git"
-  }, 
+  },
   "keywords": [],
   "author": "reynald0_sw <reynald0_sw@hotmail.com>",
   "license": "MIT",
